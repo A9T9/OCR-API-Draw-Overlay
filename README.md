@@ -37,7 +37,7 @@ How to use it:
 
 - Usage example:
 
-  python overlay.py input.jpg input.json [=> output will be INPUT file name with "_overlay.png" added. 
+  python overlay.py input.jpg input.json **[=> output will be INPUT file name with "_overlay.png" added.]**
   
   OR depending on your python installations and configurations
   
