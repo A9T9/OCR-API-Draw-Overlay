@@ -1,0 +1,937 @@
+{
+  "ParsedResults": [
+    {
+      "Overlay": {
+        "Lines": [
+          {
+            "LineText": "Free Online OCR - Convert images and PDF to text (Powered by the OCR API)",
+            "Words": [
+              {
+                "WordText": "Free",
+                "Left": 20,
+                "Top": 31.66666603088379,
+                "Height": 23.333332061767578,
+                "Width": 58.33333206176758
+              },
+              {
+                "WordText": "Online",
+                "Left": 89.16666412353516,
+                "Top": 30.833332061767578,
+                "Height": 24.16666603088379,
+                "Width": 90
+              },
+              {
+                "WordText": "OCR",
+                "Left": 190,
+                "Top": 31.66666603088379,
+                "Height": 23.333332061767578,
+                "Width": 59.999996185302734
+              },
+              {
+                "WordText": "-",
+                "Left": 260,
+                "Top": 45.83333206176758,
+                "Height": 0.8333333134651184,
+                "Width": 8.333333015441895
+              },
+              {
+                "WordText": "Convert",
+                "Left": 279.1666564941406,
+                "Top": 31.66666603088379,
+                "Height": 23.333332061767578,
+                "Width": 109.16666412353516
+              },
+              {
+                "WordText": "images",
+                "Left": 399.1666564941406,
+                "Top": 31.66666603088379,
+                "Height": 29.16666603088379,
+                "Width": 95.83332824707031
+              },
+              {
+                "WordText": "and",
+                "Left": 505.83331298828125,
+                "Top": 30.833332061767578,
+                "Height": 24.16666603088379,
+                "Width": 49.999996185302734
+              },
+              {
+                "WordText": "PDF",
+                "Left": 570,
+                "Top": 31.66666603088379,
+                "Height": 23.333332061767578,
+                "Width": 53.33333206176758
+              },
+              {
+                "WordText": "to",
+                "Left": 631.6666259765625,
+                "Top": 34.166664123535156,
+                "Height": 20.833332061767578,
+                "Width": 27.499998092651367
+              },
+              {
+                "WordText": "text",
+                "Left": 669.1666259765625,
+                "Top": 34.166664123535156,
+                "Height": 20.833332061767578,
+                "Width": 52.499996185302734
+              },
+              {
+                "WordText": "(Powered",
+                "Left": 731.6666259765625,
+                "Top": 30.833332061767578,
+                "Height": 29.16666603088379,
+                "Width": 130
+              },
+              {
+                "WordText": "by",
+                "Left": 875.8333129882812,
+                "Top": 30.833332061767578,
+                "Height": 29.999998092651367,
+                "Width": 29.999998092651367
+              },
+              {
+                "WordText": "the",
+                "Left": 914.9999389648438,
+                "Top": 30.833332061767578,
+                "Height": 24.16666603088379,
+                "Width": 44.166664123535156
+              },
+              {
+                "WordText": "OCR",
+                "Left": 970.8333129882812,
+                "Top": 31.66666603088379,
+                "Height": 23.333332061767578,
+                "Width": 59.999996185302734
+              },
+              {
+                "WordText": "API)",
+                "Left": 1040,
+                "Top": 31.66666603088379,
+                "Height": 28.333332061767578,
+                "Width": 51.666664123535156
+              }
+            ],
+            "MaxHeight": 29.999998092651367,
+            "MinTop": 30.833332061767578
+          },
+          {
+            "LineText": "Upload image or PDF file (,png jpg. webp or PDF)",
+            "Words": [
+              {
+                "WordText": "Upload",
+                "Left": 19.16666603088379,
+                "Top": 204.16665649414062,
+                "Height": 23.333332061767578,
+                "Width": 72.5
+              },
+              {
+                "WordText": "image",
+                "Left": 100.83332824707031,
+                "Top": 204.99998474121094,
+                "Height": 22.5,
+                "Width": 62.499996185302734
+              },
+              {
+                "WordText": "or",
+                "Left": 170.8333282470703,
+                "Top": 209.16665649414062,
+                "Height": 12.499999046325684,
+                "Width": 22.5
+              },
+              {
+                "WordText": "PDF",
+                "Left": 200.8333282470703,
+                "Top": 204.99998474121094,
+                "Height": 16.66666603088379,
+                "Width": 40
+              },
+              {
+                "WordText": "file",
+                "Left": 246.66665649414062,
+                "Top": 204.16665649414062,
+                "Height": 17.5,
+                "Width": 31.66666603088379
+              },
+              {
+                "WordText": "(,png",
+                "Left": 281.6666564941406,
+                "Top": 203.3333282470703,
+                "Height": 26.66666603088379,
+                "Width": 54.166664123535156
+              },
+              {
+                "WordText": "jpg.",
+                "Left": 344.1666564941406,
+                "Top": 203.3333282470703,
+                "Height": 26.66666603088379,
+                "Width": 49.166664123535156
+              },
+              {
+                "WordText": "webp",
+                "Left": 394.1666564941406,
+                "Top": 203.3333282470703,
+                "Height": 26.66666603088379,
+                "Width": 56.666664123535156
+              },
+              {
+                "WordText": "or",
+                "Left": 459.1666564941406,
+                "Top": 209.16665649414062,
+                "Height": 12.499999046325684,
+                "Width": 20.833332061767578
+              },
+              {
+                "WordText": "PDF)",
+                "Left": 488.33331298828125,
+                "Top": 204.99998474121094,
+                "Height": 20.833332061767578,
+                "Width": 51.666664123535156
+              }
+            ],
+            "MaxHeight": 26.66666603088379,
+            "MinTop": 203.3333282470703
+          },
+          {
+            "LineText": "Choose File | No file chosen",
+            "Words": [
+              {
+                "WordText": "Choose",
+                "Left": 615,
+                "Top": 217.49998474121094,
+                "Height": 18.333332061767578,
+                "Width": 81.66666412353516
+              },
+              {
+                "WordText": "File",
+                "Left": 706.6666259765625,
+                "Top": 217.49998474121094,
+                "Height": 18.333332061767578,
+                "Width": 36.666664123535156
+              },
+              {
+                "WordText": "|",
+                "Left": 756.6666259765625,
+                "Top": 215.8333282470703,
+                "Height": 27.499998092651367,
+                "Width": 9.166666030883789
+              },
+              {
+                "WordText": "No",
+                "Left": 768.3333129882812,
+                "Top": 217.49998474121094,
+                "Height": 18.333332061767578,
+                "Width": 28.333332061767578
+              },
+              {
+                "WordText": "file",
+                "Left": 805.8333129882812,
+                "Top": 216.66665649414062,
+                "Height": 19.16666603088379,
+                "Width": 32.5
+              },
+              {
+                "WordText": "chosen",
+                "Left": 846.6666259765625,
+                "Top": 216.66665649414062,
+                "Height": 19.16666603088379,
+                "Width": 79.16666412353516
+              }
+            ],
+            "MaxHeight": 27.499998092651367,
+            "MinTop": 215.8333282470703
+          },
+          {
+            "LineText": "or",
+            "Words": [
+              {
+                "WordText": "or",
+                "Left": 820.8333129882812,
+                "Top": 349.1666564941406,
+                "Height": 21.66666603088379,
+                "Width": 37.5
+              }
+            ],
+            "MaxHeight": 21.66666603088379,
+            "MinTop": 349.1666564941406
+          },
+          {
+            "LineText": "Paste url to source file (.png.jpg,.webp or .PDF)",
+            "Words": [
+              {
+                "WordText": "Paste",
+                "Left": 19.16666603088379,
+                "Top": 434.9999694824219,
+                "Height": 16.66666603088379,
+                "Width": 54.999996185302734
+              },
+              {
+                "WordText": "url",
+                "Left": 81.66666412353516,
+                "Top": 434.1666564941406,
+                "Height": 17.5,
+                "Width": 26.66666603088379
+              },
+              {
+                "WordText": "to",
+                "Left": 115.83332824707031,
+                "Top": 435.83331298828125,
+                "Height": 15.833333015441895,
+                "Width": 20
+              },
+              {
+                "WordText": "source",
+                "Left": 144.16665649414062,
+                "Top": 438.33331298828125,
+                "Height": 13.333333015441895,
+                "Width": 70
+              },
+              {
+                "WordText": "file",
+                "Left": 220.8333282470703,
+                "Top": 434.1666564941406,
+                "Height": 17.5,
+                "Width": 29.999998092651367
+              },
+              {
+                "WordText": "(.png.jpg,.webp",
+                "Left": 259.1666564941406,
+                "Top": 434.1666564941406,
+                "Height": 23.333332061767578,
+                "Width": 165
+              },
+              {
+                "WordText": "or",
+                "Left": 431.6666564941406,
+                "Top": 438.33331298828125,
+                "Height": 13.333333015441895,
+                "Width": 22.5
+              },
+              {
+                "WordText": ".PDF)",
+                "Left": 461.6666564941406,
+                "Top": 434.9999694824219,
+                "Height": 20.833332061767578,
+                "Width": 52.499996185302734
+              }
+            ],
+            "MaxHeight": 23.333332061767578,
+            "MinTop": 434.1666564941406
+          },
+          {
+            "LineText": "Language",
+            "Words": [
+              {
+                "WordText": "Language",
+                "Left": 18.333332061767578,
+                "Top": 523.3333129882812,
+                "Height": 22.5,
+                "Width": 99.16666412353516
+              }
+            ],
+            "MaxHeight": 22.5,
+            "MinTop": 523.3333129882812
+          },
+          {
+            "LineText": "English",
+            "Words": [
+              {
+                "WordText": "English",
+                "Left": 606.6666259765625,
+                "Top": 533.3333129882812,
+                "Height": 28.333332061767578,
+                "Width": 79.16666412353516
+              }
+            ],
+            "MaxHeight": 28.333332061767578,
+            "MinTop": 533.3333129882812
+          },
+          {
+            "LineText": "Detect orientation and auto-rotate image if",
+            "Words": [
+              {
+                "WordText": "Detect",
+                "Left": 19.16666603088379,
+                "Top": 612.5,
+                "Height": 17.5,
+                "Width": 65.83332824707031
+              },
+              {
+                "WordText": "orientation",
+                "Left": 93.33332824707031,
+                "Top": 612.5,
+                "Height": 17.5,
+                "Width": 114.99999237060547
+              },
+              {
+                "WordText": "and",
+                "Left": 215.8333282470703,
+                "Top": 611.6666259765625,
+                "Height": 18.333332061767578,
+                "Width": 38.33333206176758
+              },
+              {
+                "WordText": "auto-rotate",
+                "Left": 263.33331298828125,
+                "Top": 613.3333129882812,
+                "Height": 16.66666603088379,
+                "Width": 117.49999237060547
+              },
+              {
+                "WordText": "image",
+                "Left": 389.9999694824219,
+                "Top": 612.5,
+                "Height": 23.333332061767578,
+                "Width": 61.666664123535156
+              },
+              {
+                "WordText": "if",
+                "Left": 459.9999694824219,
+                "Top": 611.6666259765625,
+                "Height": 18.333332061767578,
+                "Width": 13.333333015441895
+              }
+            ],
+            "MaxHeight": 24.16666603088379,
+            "MinTop": 611.6666259765625
+          },
+          {
+            "LineText": "needed",
+            "Words": [
+              {
+                "WordText": "needed",
+                "Left": 18.333332061767578,
+                "Top": 646.6666259765625,
+                "Height": 21.66666603088379,
+                "Width": 75.83332824707031
+              }
+            ],
+            "MaxHeight": 21.66666603088379,
+            "MinTop": 646.6666259765625
+          },
+          {
+            "LineText": "Do receipt scanning and/or table recognition",
+            "Words": [
+              {
+                "WordText": "Do",
+                "Left": 19.16666603088379,
+                "Top": 738.3333129882812,
+                "Height": 17.5,
+                "Width": 26.66666603088379
+              },
+              {
+                "WordText": "receipt",
+                "Left": 54.999996185302734,
+                "Top": 738.3333129882812,
+                "Height": 23.333332061767578,
+                "Width": 70.83332824707031
+              },
+              {
+                "WordText": "scanning",
+                "Left": 133.3333282470703,
+                "Top": 738.3333129882812,
+                "Height": 23.333332061767578,
+                "Width": 92.5
+              },
+              {
+                "WordText": "and/or",
+                "Left": 234.16665649414062,
+                "Top": 737.5,
+                "Height": 18.333332061767578,
+                "Width": 70
+              },
+              {
+                "WordText": "table",
+                "Left": 310.83331298828125,
+                "Top": 737.5,
+                "Height": 18.333332061767578,
+                "Width": 52.499996185302734
+              },
+              {
+                "WordText": "recognition",
+                "Left": 370.83331298828125,
+                "Top": 738.3333129882812,
+                "Height": 23.333332061767578,
+                "Width": 117.49999237060547
+              }
+            ],
+            "MaxHeight": 24.16666603088379,
+            "MinTop": 737.5
+          },
+          {
+            "LineText": "Auto-enlarge content (recommended for low DPI)",
+            "Words": [
+              {
+                "WordText": "Auto-enlarge",
+                "Left": 16.66666603088379,
+                "Top": 826.6666259765625,
+                "Height": 23.333332061767578,
+                "Width": 136.66665649414062
+              },
+              {
+                "WordText": "content",
+                "Left": 160.8333282470703,
+                "Top": 828.3333129882812,
+                "Height": 15.833333015441895,
+                "Width": 79.16666412353516
+              },
+              {
+                "WordText": "(recommended",
+                "Left": 248.3333282470703,
+                "Top": 826.6666259765625,
+                "Height": 21.66666603088379,
+                "Width": 160
+              },
+              {
+                "WordText": "for",
+                "Left": 416.6666564941406,
+                "Top": 826.6666259765625,
+                "Height": 17.5,
+                "Width": 29.16666603088379
+              },
+              {
+                "WordText": "low",
+                "Left": 454.9999694824219,
+                "Top": 826.6666259765625,
+                "Height": 17.5,
+                "Width": 34.166664123535156
+              },
+              {
+                "WordText": "DPI)",
+                "Left": 498.33331298828125,
+                "Top": 827.4999389648438,
+                "Height": 20.833332061767578,
+                "Width": 40
+              }
+            ],
+            "MaxHeight": 23.333332061767578,
+            "MinTop": 826.6666259765625
+          },
+          {
+            "LineText": "Create Searchable PDF",
+            "Words": [
+              {
+                "WordText": "Create",
+                "Left": 18.333332061767578,
+                "Top": 917.4999389648438,
+                "Height": 16.66666603088379,
+                "Width": 66.66666412353516
+              },
+              {
+                "WordText": "Searchable",
+                "Left": 94.16666412353516,
+                "Top": 916.6666259765625,
+                "Height": 17.5,
+                "Width": 114.16666412353516
+              },
+              {
+                "WordText": "PDF",
+                "Left": 218.3333282470703,
+                "Top": 917.4999389648438,
+                "Height": 16.66666603088379,
+                "Width": 38.33333206176758
+              }
+            ],
+            "MaxHeight": 17.5,
+            "MinTop": 916.6666259765625
+          },
+          {
+            "LineText": "Just extract text and show Overlay (fastest option)",
+            "Words": [
+              {
+                "WordText": "Just",
+                "Left": 611.6666259765625,
+                "Top": 928.3333129882812,
+                "Height": 22.5,
+                "Width": 70
+              },
+              {
+                "WordText": "extract",
+                "Left": 689.1666259765625,
+                "Top": 930.8333129882812,
+                "Height": 15.833333015441895,
+                "Width": 71.66666412353516
+              },
+              {
+                "WordText": "text",
+                "Left": 768.3333129882812,
+                "Top": 930.8333129882812,
+                "Height": 15.833333015441895,
+                "Width": 40
+              },
+              {
+                "WordText": "and",
+                "Left": 814.9999389648438,
+                "Top": 928.3333129882812,
+                "Height": 18.333332061767578,
+                "Width": 38.33333206176758
+              },
+              {
+                "WordText": "show",
+                "Left": 861.6666259765625,
+                "Top": 928.3333129882812,
+                "Height": 18.333332061767578,
+                "Width": 54.999996185302734
+              },
+              {
+                "WordText": "Overlay",
+                "Left": 920.8333129882812,
+                "Top": 928.3333129882812,
+                "Height": 25.833332061767578,
+                "Width": 78.33332824707031
+              },
+              {
+                "WordText": "(fastest",
+                "Left": 1003.3333129882812,
+                "Top": 928.3333129882812,
+                "Height": 25.833332061767578,
+                "Width": 82.5
+              },
+              {
+                "WordText": "option)",
+                "Left": 1090,
+                "Top": 929.1666259765625,
+                "Height": 23.333332061767578,
+                "Width": 74.16666412353516
+              }
+            ],
+            "MaxHeight": 25.833332061767578,
+            "MinTop": 928.3333129882812
+          },
+          {
+            "LineText": "O Create searchable PDF with visible text layer",
+            "Words": [
+              {
+                "WordText": "O",
+                "Left": 611.6666259765625,
+                "Top": 975.8333129882812,
+                "Height": 20,
+                "Width": 21.66666603088379
+              },
+              {
+                "WordText": "Create",
+                "Left": 644.1666259765625,
+                "Top": 976.6666259765625,
+                "Height": 16.66666603088379,
+                "Width": 67.5
+              },
+              {
+                "WordText": "searchable",
+                "Left": 720,
+                "Top": 975.8333129882812,
+                "Height": 17.5,
+                "Width": 113.33332824707031
+              },
+              {
+                "WordText": "PDF",
+                "Left": 843.3333129882812,
+                "Top": 976.6666259765625,
+                "Height": 16.66666603088379,
+                "Width": 38.33333206176758
+              },
+              {
+                "WordText": "with",
+                "Left": 888.3333129882812,
+                "Top": 975.8333129882812,
+                "Height": 17.5,
+                "Width": 43.33333206176758
+              },
+              {
+                "WordText": "visible",
+                "Left": 940.8333129882812,
+                "Top": 975.8333129882812,
+                "Height": 17.5,
+                "Width": 59.999996185302734
+              },
+              {
+                "WordText": "text",
+                "Left": 1008.3333129882812,
+                "Top": 977.4999389648438,
+                "Height": 15.833333015441895,
+                "Width": 40
+              },
+              {
+                "WordText": "layer",
+                "Left": 1055.833251953125,
+                "Top": 975.8333129882812,
+                "Height": 23.333332061767578,
+                "Width": 49.999996185302734
+              }
+            ],
+            "MaxHeight": 23.333332061767578,
+            "MinTop": 975.8333129882812
+          },
+          {
+            "LineText": "O Create searchable PDF with invisible text layer",
+            "Words": [
+              {
+                "WordText": "O",
+                "Left": 611.6666259765625,
+                "Top": 1021.6666259765625,
+                "Height": 20.833332061767578,
+                "Width": 21.66666603088379
+              },
+              {
+                "WordText": "Create",
+                "Left": 644.1666259765625,
+                "Top": 1023.3333129882812,
+                "Height": 16.66666603088379,
+                "Width": 67.5
+              },
+              {
+                "WordText": "searchable",
+                "Left": 720,
+                "Top": 1022.4999389648438,
+                "Height": 17.5,
+                "Width": 113.33332824707031
+              },
+              {
+                "WordText": "PDF",
+                "Left": 843.3333129882812,
+                "Top": 1023.3333129882812,
+                "Height": 16.66666603088379,
+                "Width": 38.33333206176758
+              },
+              {
+                "WordText": "with",
+                "Left": 888.3333129882812,
+                "Top": 1022.4999389648438,
+                "Height": 17.5,
+                "Width": 43.33333206176758
+              },
+              {
+                "WordText": "invisible",
+                "Left": 939.9999389648438,
+                "Top": 1022.4999389648438,
+                "Height": 17.5,
+                "Width": 80
+              },
+              {
+                "WordText": "text",
+                "Left": 1026.6666259765625,
+                "Top": 1024.1666259765625,
+                "Height": 15.833333015441895,
+                "Width": 40
+              },
+              {
+                "WordText": "layer",
+                "Left": 1075,
+                "Top": 1022.4999389648438,
+                "Height": 24.16666603088379,
+                "Width": 49.999996185302734
+              }
+            ],
+            "MaxHeight": 24.999998092651367,
+            "MinTop": 1021.6666259765625
+          },
+          {
+            "LineText": "Select OCR Engine to use:",
+            "Words": [
+              {
+                "WordText": "Select",
+                "Left": 17.5,
+                "Top": 1058.333251953125,
+                "Height": 20,
+                "Width": 60.83333206176758
+              },
+              {
+                "WordText": "OCR",
+                "Left": 85.83332824707031,
+                "Top": 1059.1666259765625,
+                "Height": 17.5,
+                "Width": 44.166664123535156
+              },
+              {
+                "WordText": "Engine",
+                "Left": 138.3333282470703,
+                "Top": 1058.333251953125,
+                "Height": 24.999998092651367,
+                "Width": 69.16666412353516
+              },
+              {
+                "WordText": "to",
+                "Left": 214.16665649414062,
+                "Top": 1061.6666259765625,
+                "Height": 14.999999046325684,
+                "Width": 20.833332061767578
+              },
+              {
+                "WordText": "use:",
+                "Left": 243.3333282470703,
+                "Top": 1063.333251953125,
+                "Height": 14.166666030883789,
+                "Width": 40.83333206176758
+              }
+            ],
+            "MaxHeight": 26.66666603088379,
+            "MinTop": 1056.6666259765625
+          },
+          {
+            "LineText": "Use OCR Engine1 (Default, fast, most OCR languages)",
+            "Words": [
+              {
+                "WordText": "Use",
+                "Left": 611.6666259765625,
+                "Top": 1070,
+                "Height": 21.66666603088379,
+                "Width": 70
+              },
+              {
+                "WordText": "OCR",
+                "Left": 690,
+                "Top": 1072.5,
+                "Height": 16.66666603088379,
+                "Width": 45
+              },
+              {
+                "WordText": "Engine1",
+                "Left": 744.1666259765625,
+                "Top": 1072.5,
+                "Height": 22.5,
+                "Width": 76.66666412353516
+              },
+              {
+                "WordText": "(Default,",
+                "Left": 833.3333129882812,
+                "Top": 1071.6666259765625,
+                "Height": 21.66666603088379,
+                "Width": 86.66666412353516
+              },
+              {
+                "WordText": "fast,",
+                "Left": 928.3333129882812,
+                "Top": 1071.6666259765625,
+                "Height": 20.833332061767578,
+                "Width": 42.5
+              },
+              {
+                "WordText": "most",
+                "Left": 979.9999389648438,
+                "Top": 1073.333251953125,
+                "Height": 15.833333015441895,
+                "Width": 50.83333206176758
+              },
+              {
+                "WordText": "OCR",
+                "Left": 1039.1666259765625,
+                "Top": 1072.5,
+                "Height": 16.66666603088379,
+                "Width": 44.166664123535156
+              },
+              {
+                "WordText": "languages)",
+                "Left": 1091.6666259765625,
+                "Top": 1071.6666259765625,
+                "Height": 23.333332061767578,
+                "Width": 111.66666412353516
+              }
+            ],
+            "MaxHeight": 24.999998092651367,
+            "MinTop": 1070
+          },
+          {
+            "LineText": "O Use OCR Engine2 (Often better for number and special character OCR)",
+            "Words": [
+              {
+                "WordText": "O",
+                "Left": 611.6666259765625,
+                "Top": 1118.333251953125,
+                "Height": 20.833332061767578,
+                "Width": 21.66666603088379
+              },
+              {
+                "WordText": "Use",
+                "Left": 645,
+                "Top": 1120,
+                "Height": 17.5,
+                "Width": 36.666664123535156
+              },
+              {
+                "WordText": "OCR",
+                "Left": 690,
+                "Top": 1120,
+                "Height": 17.5,
+                "Width": 45
+              },
+              {
+                "WordText": "Engine2",
+                "Left": 744.1666259765625,
+                "Top": 1120,
+                "Height": 23.333332061767578,
+                "Width": 80.83332824707031
+              },
+              {
+                "WordText": "(Often",
+                "Left": 833.3333129882812,
+                "Top": 1119.1666259765625,
+                "Height": 22.5,
+                "Width": 63.33333206176758
+              },
+              {
+                "WordText": "better",
+                "Left": 905.8333129882812,
+                "Top": 1119.1666259765625,
+                "Height": 18.333332061767578,
+                "Width": 63.33333206176758
+              },
+              {
+                "WordText": "for",
+                "Left": 975.8333129882812,
+                "Top": 1119.1666259765625,
+                "Height": 18.333332061767578,
+                "Width": 29.999998092651367
+              },
+              {
+                "WordText": "number",
+                "Left": 1014.1666259765625,
+                "Top": 1119.1666259765625,
+                "Height": 18.333332061767578,
+                "Width": 82.5
+              },
+              {
+                "WordText": "and",
+                "Left": 1104.1666259765625,
+                "Top": 1119.1666259765625,
+                "Height": 18.333332061767578,
+                "Width": 37.5
+              },
+              {
+                "WordText": "special",
+                "Left": 1150,
+                "Top": 1119.1666259765625,
+                "Height": 24.16666603088379,
+                "Width": 70
+              },
+              {
+                "WordText": "character",
+                "Left": 1229.1666259765625,
+                "Top": 1119.1666259765625,
+                "Height": 18.333332061767578,
+                "Width": 99.16666412353516
+              },
+              {
+                "WordText": "OCR)",
+                "Left": 1335,
+                "Top": 1120,
+                "Height": 21.66666603088379,
+                "Width": 50.83333206176758
+              }
+            ],
+            "MaxHeight": 24.999998092651367,
+            "MinTop": 1118.333251953125
+          }
+        ],
+        "HasOverlay": true,
+        "Message": "Total lines: 18"
+      },
+      "FileParseExitCode": 1,
+      "TextOrientation": "0",
+      "ParsedText": "Free Online OCR - Convert images and PDF to text (Powered by the OCR API)\nUpload image or PDF file (,png jpg. webp or PDF)\nChoose File | No file chosen\nor\nPaste url to source file (.png.jpg,.webp or .PDF)\nLanguage\nEnglish\nDetect orientation and auto-rotate image if\nneeded\nDo receipt scanning and/or table recognition\nAuto-enlarge content (recommended for low DPI)\nCreate Searchable PDF\nJust extract text and show Overlay (fastest option)\nO Create searchable PDF with visible text layer\nO Create searchable PDF with invisible text layer\nSelect OCR Engine to use:\nUse OCR Engine1 (Default, fast, most OCR languages)\nO Use OCR Engine2 (Often better for number and special character OCR)",
+      "ErrorMessage": "",
+      "ErrorDetails": ""
+    }
+  ],
+  "OCRExitCode": 1,
+  "IsErroredOnProcessing": false,
+  "ProcessingTimeInMilliseconds": 1.693
+}
