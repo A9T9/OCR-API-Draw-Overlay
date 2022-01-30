@@ -13,7 +13,9 @@ The tool can be useful - for example - to test and debug OCR results from the
 License: Open-Source MIT License  - https://opensource.org/licenses/MIT
 
 V1.1  - 20211125
+
 V2.0  - 20220130
+
 ---------------------
 
 
