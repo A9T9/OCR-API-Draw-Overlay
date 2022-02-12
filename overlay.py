@@ -64,7 +64,7 @@ image_file_name_without_extension = os.path.splitext(image_file_name)[0]
 is_arabic = image_file_name_without_extension.endswith("_ara")
 
 for pr in data["ParsedResults"]:
-    for line in pr["Overlay"]["Lines"]:
+    for line in pr["TextOverlay"]["Lines"]:
         for w in line["Words"]:
             x1 = (w["Left"], w["Top"])
             x2 = (x1[0] + w["Width"], x1[1] + w["Height"])
