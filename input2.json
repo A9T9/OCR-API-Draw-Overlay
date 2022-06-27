@@ -1,0 +1,168 @@
+{
+    "ParsedResults": [
+      {
+        "Overlay": {
+          "Lines": [
+            {
+              "LineText": "鹵C$20幫蕊材一",
+              "Words": [
+                {
+                  "WordText": "鹵",
+                  "Left": 118.5,
+                  "Top": 16,
+                  "Height": 7.5,
+                  "Width": 6.5
+                },
+                {
+                  "WordText": "C",
+                  "Left": 133,
+                  "Top": 17,
+                  "Height": 6,
+                  "Width": 4.5
+                },
+                {
+                  "WordText": "$",
+                  "Left": 138,
+                  "Top": 16.5,
+                  "Height": 6.5,
+                  "Width": 4.5
+                },
+                {
+                  "WordText": "20",
+                  "Left": 142.5,
+                  "Top": 16.5,
+                  "Height": 6.5,
+                  "Width": 8.5
+                },
+                {
+                  "WordText": "幫",
+                  "Left": 167,
+                  "Top": 17,
+                  "Height": 6,
+                  "Width": 7
+                },
+                {
+                  "WordText": "蕊",
+                  "Left": 195.5,
+                  "Top": 16.5,
+                  "Height": 7,
+                  "Width": 6.5
+                },
+                {
+                  "WordText": "材",
+                  "Left": 216.5,
+                  "Top": 17,
+                  "Height": 7,
+                  "Width": 6.5
+                },
+                {
+                  "WordText": "一",
+                  "Left": 225.5,
+                  "Top": 20,
+                  "Height": 6.5,
+                  "Width": 65
+                }
+              ],
+              "MaxHeight": 7.5,
+              "MinTop": 16
+            },
+            {
+              "LineText": "数据结构与算法",
+              "Words": [
+                {
+                  "WordText": "数",
+                  "Left": 105.5,
+                  "Top": 98.5,
+                  "Height": 22,
+                  "Width": 22
+                },
+                {
+                  "WordText": "据",
+                  "Left": 129,
+                  "Top": 98,
+                  "Height": 22.5,
+                  "Width": 21.5
+                },
+                {
+                  "WordText": "结",
+                  "Left": 152,
+                  "Top": 97,
+                  "Height": 23.5,
+                  "Width": 20.5
+                },
+                {
+                  "WordText": "构",
+                  "Left": 174.5,
+                  "Top": 97.5,
+                  "Height": 22.5,
+                  "Width": 20
+                },
+                {
+                  "WordText": "与",
+                  "Left": 197.5,
+                  "Top": 97,
+                  "Height": 22,
+                  "Width": 19
+                },
+                {
+                  "WordText": "算",
+                  "Left": 218.5,
+                  "Top": 96.5,
+                  "Height": 22.5,
+                  "Width": 21
+                },
+                {
+                  "WordText": "法",
+                  "Left": 240.5,
+                  "Top": 96,
+                  "Height": 22.5,
+                  "Width": 20.5
+                }
+              ],
+              "MaxHeight": 23.5,
+              "MinTop": 96
+            },
+            {
+              "LineText": "Python语言描述",
+              "Words": [
+                {
+                  "WordText": "Python",
+                  "Left": 138.5,
+                  "Top": 127,
+                  "Height": 15.5,
+                  "Width": 42.5
+                },
+                {
+                  "WordText": "语",
+                  "Left": 181,
+                  "Top": 126.5,
+                  "Height": 13.5,
+                  "Width": 13
+                },
+                {
+                  "WordText": "言描述",
+                  "Left": 194.5,
+                  "Top": 125.5,
+                  "Height": 14,
+                  "Width": 37.5
+                }
+              ],
+              "MaxHeight": 15.5,
+              "MinTop": 125.5
+            }
+          ],
+          "HasOverlay": true,
+          "Message": "Total lines: 3"
+        },
+        "FileParseExitCode": 1,
+        "TextOrientation": "0",
+        "ParsedText": "鹵C$20幫蕊材一\r\n数据结构与算法\r\nPython语言描述\r\n",
+        "ErrorMessage": "",
+        "ErrorDetails": ""
+      }
+    ],
+    "OCRExitCode": 1,
+    "IsErroredOnProcessing": false,
+    "ProcessingTimeInMilliseconds": 4.421,
+    "SearchablePDFURL": "Searchable PDF not generated as it was not requested."
+  }

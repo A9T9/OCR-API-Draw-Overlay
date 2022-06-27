@@ -1,0 +1,98 @@
+{
+    "ParsedResults": [
+      {
+        "Overlay": {
+          "Lines": [
+            {
+              "LineText": "OREILLY'",
+              "Words": [
+                {
+                  "WordText": "OREILLY'",
+                  "Left": 22,
+                  "Top": 5,
+                  "Height": 10,
+                  "Width": 54
+                }
+              ],
+              "MaxHeight": 10,
+              "MinTop": 5
+            },
+            {
+              "LineText": "Python for",
+              "Words": [
+                {
+                  "WordText": "Python",
+                  "Left": 28,
+                  "Top": 76,
+                  "Height": 33,
+                  "Width": 106
+                },
+                {
+                  "WordText": "for",
+                  "Left": 143,
+                  "Top": 76,
+                  "Height": 27,
+                  "Width": 37
+                }
+              ],
+              "MaxHeight": 33,
+              "MinTop": 76
+            },
+            {
+              "LineText": "Data Analysis",
+              "Words": [
+                {
+                  "WordText": "Data",
+                  "Left": 29,
+                  "Top": 110,
+                  "Height": 27,
+                  "Width": 67
+                },
+                {
+                  "WordText": "Analysis",
+                  "Left": 107,
+                  "Top": 110,
+                  "Height": 34,
+                  "Width": 125
+                }
+              ],
+              "MaxHeight": 34,
+              "MinTop": 110
+            },
+            {
+              "LineText": "wes McKinney",
+              "Words": [
+                {
+                  "WordText": "wes",
+                  "Left": 174,
+                  "Top": 314,
+                  "Height": 9,
+                  "Width": 20
+                },
+                {
+                  "WordText": "McKinney",
+                  "Left": 197,
+                  "Top": 313,
+                  "Height": 11,
+                  "Width": 45
+                }
+              ],
+              "MaxHeight": 11,
+              "MinTop": 313
+            }
+          ],
+          "HasOverlay": true,
+          "Message": "Total lines: 4"
+        },
+        "FileParseExitCode": 1,
+        "TextOrientation": "0",
+        "ParsedText": "OREILLY'\r\nPython for\r\nData Analysis\r\nwes McKinney\r\n",
+        "ErrorMessage": "",
+        "ErrorDetails": ""
+      }
+    ],
+    "OCRExitCode": 1,
+    "IsErroredOnProcessing": false,
+    "ProcessingTimeInMilliseconds": 0.765,
+    "SearchablePDFURL": "Searchable PDF not generated as it was not requested."
+  }
